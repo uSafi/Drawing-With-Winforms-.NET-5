@@ -210,8 +210,6 @@ namespace Drawing_With_Winforms
             {
                 var g = e.Graphics;
                 g.SmoothingMode = SmoothingMode.AntiAlias;
-                g.InterpolationMode = InterpolationMode.HighQualityBicubic;
-                g.CompositingQuality = CompositingQuality.HighQuality;
 
                 IEnumerable<IShape> DrawnObjects;
                 if (chkReverseOrder.Checked)
