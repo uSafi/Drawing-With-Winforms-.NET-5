@@ -23,6 +23,7 @@ This project Offer:
 - Taskbar show canvas size and mouse coordinates.
 - Save drawn Canvas to File of deffrent Image formats (png, bmp, jpg, gif, tif).
 
+![Screenshot](https://user-images.githubusercontent.com/43465134/174645021-a7804c25-8d5d-46ad-a83e-db106713b22f.png)
 
 # License and copyright
 © Usama Safi Yassir
