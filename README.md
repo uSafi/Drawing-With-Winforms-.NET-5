@@ -13,8 +13,7 @@ This project Offer:
   - (More figure types can be added through implementing IShape interface).  
 - Drawing in Manual mode or Free mode (Set points for the figure, or just move the mouse to see the shape freely drawn and sized)
 - Draw One figure at a time, or in Continuous connected figures.
-- Select color for figures.
-- Select thickness for figures.
+- Select Stroke, Thickness, Fill to figures.
 - Moving drawn figures around.
 - Undo\Redo drawn figures.
 - Reset Canvas.
@@ -24,8 +23,6 @@ This project Offer:
 - Taskbar show canvas size and mouse coordinates.
 - Save drawn Canvas to File of deffrent Image formats (png, bmp, jpg, gif, tif).
 
-# Screenshot
-![alt text](https://github.com/uSafi/Drawing-With-Winforms-.NET-5/blob/master/Drawing%20With%20Winforms/Screenshot.png?raw=true)
 
 # License and copyright
 © Usama Safi Yassir
